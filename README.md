@@ -22,7 +22,7 @@ class Developer:
         self.frameworks = ["PyQt6", "Tkinter", "Flask"]
         self.libraries = ["aiogram", "discord.py", "telebot", "OpenCV", "Requests"]
         self.databases = ["SQLite", "PostgreSQL", "MySQL"]
-        self.tools = ["Git", "VS Code", "PyInstaller", "Inno Setup"]
+        self.tools = ["Git", "VS Code", "PyCharm", "PyInstaller", "Inno Setup"]
         self.current_focus = "Desktop Applications & Windows Utilities"
         
     def say_hi(self):
@@ -63,11 +63,11 @@ me.say_hi()
 ### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
