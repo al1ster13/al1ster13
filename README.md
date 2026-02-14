@@ -60,17 +60,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=al1ster13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al1ster13&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 📈 Activity
 
 <div align="center">
@@ -78,16 +67,6 @@ me.say_hi()
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=al1ster13&theme=tokyo-night&hide_border=true)
 
 </div>
-
----
-
-## 🎯 What I'm Up To
-
-- 🔭 **Currently working on:** Developing UTILHELP and adding new features
-- 🌱 **Learning:** Advanced PyQt6 capabilities and performance optimization
-- 👯 **Open to collaborate on:** Desktop applications with Python, Telegram/Discord bots
-- 💬 **Ask me about:** Python, PyQt6, PHP web development, C++ basics, Telegram/Discord bots, OpenCV, creating Windows utilities
-- ⚡ **Fun fact:** Started programming by creating discord bots
 
 ---
 
